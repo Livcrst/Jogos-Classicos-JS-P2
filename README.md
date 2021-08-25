@@ -26,7 +26,7 @@ Baseado no jogo Classico FreeWay de 1981, febre em milhares de adolescentes da e
 
 ## Preview
 
-  (![image](![image](https://user-images.githubusercontent.com/50409673/130822272-72c13df0-42ca-4720-b8c7-459839b53439.png)
+[image](https://user-images.githubusercontent.com/50409673/130822272-72c13df0-42ca-4720-b8c7-459839b53439.png)
 
  
 
