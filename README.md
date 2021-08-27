@@ -1,4 +1,4 @@
-**<h1 align="center">
+<h1 align="center">
   <p> Jogos Clássicos 2: FreeWay </>
 </h1>
 
@@ -31,4 +31,4 @@ Baseado no jogo Classico FreeWay de 1981, febre em milhares de adolescentes da e
  
 
 ## Feito com carinho 💜
-**
+
